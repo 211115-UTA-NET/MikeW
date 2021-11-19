@@ -1,0 +1,15 @@
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.AssemblyInfo.cs
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\bin\Debug\net6.0\ChallengesDatatypesAndVariables.exe
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\bin\Debug\net6.0\ChallengesDatatypesAndVariables.deps.json
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\bin\Debug\net6.0\ChallengesDatatypesAndVariables.runtimeconfig.json
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\bin\Debug\net6.0\ChallengesDatatypesAndVariables.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\bin\Debug\net6.0\ref\ChallengesDatatypesAndVariables.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\bin\Debug\net6.0\ChallengesDatatypesAndVariables.pdb
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ref\ChallengesDatatypesAndVariables.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.pdb
+C:\Users\mjwaw\Revature\MikeW\ChallengesDatatypesAndVariables\obj\Debug\net6.0\ChallengesDatatypesAndVariables.genruntimeconfig.cache

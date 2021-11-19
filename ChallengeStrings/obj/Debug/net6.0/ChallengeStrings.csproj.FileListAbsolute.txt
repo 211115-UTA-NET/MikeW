@@ -1,0 +1,15 @@
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.csproj.AssemblyReference.cache
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.AssemblyInfoInputs.cache
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.AssemblyInfo.cs
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.csproj.CoreCompileInputs.cache
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\bin\Debug\net6.0\ChallengeStrings.exe
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\bin\Debug\net6.0\ChallengeStrings.deps.json
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\bin\Debug\net6.0\ChallengeStrings.runtimeconfig.json
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\bin\Debug\net6.0\ChallengeStrings.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\bin\Debug\net6.0\ref\ChallengeStrings.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\bin\Debug\net6.0\ChallengeStrings.pdb
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ref\ChallengeStrings.dll
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.pdb
+C:\Users\mjwaw\Revature\MikeW\ChallengeStrings\obj\Debug\net6.0\ChallengeStrings.genruntimeconfig.cache

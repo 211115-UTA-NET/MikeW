@@ -1,0 +1,15 @@
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.AssemblyInfo.cs
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.exe
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.deps.json
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.runtimeconfig.json
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.dll
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\bin\Debug\net6.0\ref\LoopingWithNumbers.dll
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.pdb
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.dll
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\ref\LoopingWithNumbers.dll
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.pdb
+C:\Users\mjwaw\Revature\MikeW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.genruntimeconfig.cache

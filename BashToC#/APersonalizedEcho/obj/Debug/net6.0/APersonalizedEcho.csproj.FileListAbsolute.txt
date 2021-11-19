@@ -1,0 +1,15 @@
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\bin\Debug\net6.0\APersonalizedEcho.exe
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\bin\Debug\net6.0\APersonalizedEcho.deps.json
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\bin\Debug\net6.0\APersonalizedEcho.runtimeconfig.json
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\bin\Debug\net6.0\APersonalizedEcho.dll
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\bin\Debug\net6.0\ref\APersonalizedEcho.dll
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\bin\Debug\net6.0\APersonalizedEcho.pdb
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.csproj.AssemblyReference.cache
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.AssemblyInfoInputs.cache
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.AssemblyInfo.cs
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.csproj.CoreCompileInputs.cache
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.dll
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\ref\APersonalizedEcho.dll
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.pdb
+C:\Users\mjwaw\Revature\MikeW\APersonalizedEcho\obj\Debug\net6.0\APersonalizedEcho.genruntimeconfig.cache

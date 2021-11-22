@@ -1,0 +1,15 @@
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.csproj.AssemblyReference.cache
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.AssemblyInfoInputs.cache
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.AssemblyInfo.cs
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.csproj.CoreCompileInputs.cache
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\bin\Debug\net6.0\Fizz-BuzzGame.exe
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\bin\Debug\net6.0\Fizz-BuzzGame.deps.json
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\bin\Debug\net6.0\Fizz-BuzzGame.runtimeconfig.json
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\bin\Debug\net6.0\Fizz-BuzzGame.dll
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\bin\Debug\net6.0\ref\Fizz-BuzzGame.dll
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\bin\Debug\net6.0\Fizz-BuzzGame.pdb
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.dll
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\ref\Fizz-BuzzGame.dll
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.pdb
+C:\Users\mjwaw\Revature\MikeW\Fizz-BuzzGame\obj\Debug\net6.0\Fizz-BuzzGame.genruntimeconfig.cache

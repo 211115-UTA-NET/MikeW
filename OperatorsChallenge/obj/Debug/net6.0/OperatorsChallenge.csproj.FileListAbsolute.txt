@@ -1,0 +1,15 @@
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.csproj.AssemblyReference.cache
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.AssemblyInfoInputs.cache
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.AssemblyInfo.cs
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.exe
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.deps.json
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.runtimeconfig.json
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.dll
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\bin\Debug\net6.0\ref\OperatorsChallenge.dll
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\bin\Debug\net6.0\OperatorsChallenge.pdb
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.dll
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\ref\OperatorsChallenge.dll
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.pdb
+C:\Users\mjwaw\Revature\MikeW\OperatorsChallenge\obj\Debug\net6.0\OperatorsChallenge.genruntimeconfig.cache
